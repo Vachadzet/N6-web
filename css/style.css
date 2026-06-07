@@ -1,5 +1,5 @@
 
-/*  HEADER CSS */
+
 .main {
     background-color: white;
     display: flex;
@@ -168,7 +168,7 @@
 }
 
 
-/* SECTION 2 CSS */
+
 
 .presentation {
     position: relative;
@@ -233,7 +233,7 @@
     letter-spacing: 0%;
  }
 
- /* SECTION 3 CSS */
+
 
  .experts-container {
     display: flex;
